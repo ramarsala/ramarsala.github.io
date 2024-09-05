@@ -21,9 +21,6 @@ author: Ryan Marsala
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Projects:
     - GPU Programming: "projectgpu"
     - Embedded Systems: "projectembedded"
