@@ -2,9 +2,9 @@
 layout: post
 title: Welcome to my personal website
 subtitle: Documenting my experiences
-gh-repo: daattali/beautiful-jekyll
+gh-repo: ramarsala/ramarsala.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [website, personal, about]
 comments: false
 mathjax: true
 author: Ryan Marsala
