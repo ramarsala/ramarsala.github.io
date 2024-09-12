@@ -20,14 +20,14 @@ author: Ryan Marsala
 ###############################################
 
 navbar-links:
-  About Me: "/_pages/about/aboutme.md"
+  About Me: "/pages/about/aboutme.md"
   Projects:
-    - GPU Programming: "/_pages/projects/gpu.md"
-    - Embedded Systems: "/_pages/projects/embedded.md"
-    - Networking: "/_pages/projects/network.md"
-    - Machine Learning: "/_pages/projects/ml.md"
+    - GPU Programming: "/pages/projects/gpu.md"
+    - Embedded Systems: "/pages/projects/embedded.md"
+    - Networking: "/pages/projects/network.md"
+    - Machine Learning: "/pages/projects/ml.md"
   Research:
-    - Architecture Simulation: "/_pages/research/sim.md"
+    - Architecture Simulation: "/pages/research/sim.md"
 
 ################
 # --- Logo --- #
