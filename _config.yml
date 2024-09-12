@@ -20,14 +20,14 @@ author: Ryan Marsala
 ###############################################
 
 navbar-links:
-  About Me: "_pages/about/aboutme"
+  About Me: "/_pages/about/aboutme"
   Projects:
-    - GPU Programming: "_pages/projects/gpu"
-    - Embedded Systems: "_pages/projects/embedded"
-    - Networking: "_pages/projects/network"
-    - Machine Learning: "_pages/projects/ml"
+    - GPU Programming: "/_pages/projects/gpu"
+    - Embedded Systems: "/_pages/projects/embedded"
+    - Networking: "/_pages/projects/network"
+    - Machine Learning: "/_pages/projects/ml"
   Research:
-    - Architecture Simulation: "_pages/research/sim"
+    - Architecture Simulation: "/_pages/research/sim"
 
 ################
 # --- Logo --- #
@@ -88,7 +88,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Updates from Ryan Marsala's personal website
 
 ###########################
 # --- General options --- #
