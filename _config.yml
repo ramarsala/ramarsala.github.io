@@ -27,7 +27,7 @@ navbar-links:
     - Networking: "/pages/projects/network"
     - Machine Learning: "/pages/projects/ml"
   Research:
-    - Architecture Simulation: "/pages/research/sim."
+    - Architecture Simulation: "/pages/research/sim"
 
 ################
 # --- Logo --- #
