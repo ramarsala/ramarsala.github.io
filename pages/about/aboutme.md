@@ -14,21 +14,21 @@ I've also taken many electrical courses and learned about a variety of topics fr
 
 ### Research
 
-My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on specifying cache parameters under cryogenic conditions, and is attempting to discover novel insights into potential memory configurations to maximize throughput. More information can be found in the research tab.
+My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on modeling different cache parameters under cryogenic conditionsto determine instruction latency caused by memory, and is attempting to discover novel insights into potential memory configurations to maximize throughput. More information can be found in the research tab.
 
 ### Courses
 
-Most of my coursework has been focused on areas that bridge the hardware and software of systems, primarily for baremetal electronics. Notable courses include:
+Most of my coursework has been focused on areas that bridge the hardware and software of systems, primarily for baremetal electronics. I have also taken higher level programming courses, such as Android and Web Programming, which focused on higher level design and interfacing with existing libraries and software. Notable courses include:
 - Parallel Programming
 - Graphics Programming
 - Embedded Systems
 - SEED Lab (robotics)
 - Web Programming
 - Mobile Programming
-- Devices and Circuits
+Most of these courses are shown in the relavent pages supporting my experience in the various subjects listed in the projects tab.
 
-Other courses include Electromagnetics, Signal processing, Feedback Control, 
+Other courses include Electromagnetics, Signal processing, Feedback Control, and Devices and Circuits. In these courses I've learned various methods of abstracting and modeling signals, current and other electrical phenomenon into mathematical models to predict and control behaviors in various ways.
 
 I am currently taking distributed systems and machine learning, and hope to be able to add those to my list in the future.
 
-More information about what I've learned can be found in their respective tabs under courses.
+More information about what I've learned can be found in their respective tabs under projects.
