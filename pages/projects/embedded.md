@@ -5,6 +5,8 @@ subtitle: Baremetal programs directly interfacing with hardware
 ---
 Projects include Canary X, autonomous robot, BPM calculator, and others.
 
+## Canary X Field Session Project
+
 The Canary X project was a field session project provided by Lunar Outpost. The primary goal was designing a series of embedded systems to collect sensor information which would be sent to an onsite server using a json payload.
 
 The sensor information included localization provided by a GPS sensor, and various environmental information such as temperature. The information was requested and retrieved from various sources by an adafruit feather through UART, SPI, and I2C. A process was developed to package the information from into a json format using open source libraries.
