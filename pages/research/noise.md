@@ -2,7 +2,7 @@
 layout: page
 title: Noise Analysis of Superconducting ADCs - Research Overview
 subtitle: Robustness of an oversampling, phase-modulation-demodulation S-ADC at cryogenic temperatures
-# tags: [superconducting, RSFQ, ADC, cryogenic, noise, robustness]
+tags: [superconducting, RSFQ, ADC, cryogenic, noise, robustness]
 ---
 
 > TL;DR - During my internship at Lawrence Berkeley National Laboratory (LBNL), I built a Simulink-based framework to analyze how different noise mechanisms impact a superconducting ADC (S-ADC) that uses phase modulation-demodulation. By injecting stochastic bit-flip and timing-jitter errors at multiple points in the signal path and running Monte Carlo sweeps, I quantified which blocks are most vulnerable and what design choices harden the system.
@@ -49,7 +49,3 @@ For practical cryogenic systems, total error budget is shaped more by where nois
 This work was performed during my internship at Lawrence Berkeley National Laboratory (LBNL).
 
 ---
-
-### Notes for the web build
-- Export figure images and place them in `../../../assets/img/research/` with the names used above: sadc_fig1.png, sadc_fig2.png, sadc_fig4.png, sadc_fig6.png.
-- The page uses ASCII-only punctuation to avoid static-site warnings.
