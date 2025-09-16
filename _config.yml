@@ -21,14 +21,14 @@ author: Ryan Marsala
 
 navbar-links:
   About Me: "/pages/about/aboutme"
+  Research:
+    - Architecture Simulation: "/pages/research/sim"
+    - SFQ ADC Analysis: "/pages/research/noise"
   Projects:
     - GPU Programming: "/pages/projects/gpu"
     - Embedded Systems: "/pages/projects/embedded"
     - Networking: "/pages/projects/network"
     - Machine Learning: "/pages/projects/ml"
-  Research:
-    - Architecture Simulation: "/pages/research/sim"
-    - SFQ ADC Analysis: "/pages/research/noise"
 
 ################
 # --- Logo --- #
