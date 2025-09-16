@@ -39,7 +39,7 @@ On the digital side we measure the time between rising edges and convert that in
 
 ## LabVIEW Vending Machine Simulation
 
-![LabVIEW vending machine simulation using NI hardware in the loop](../../../assets/img/projects/labview_fig1.jpg)
+![LabVIEW vending machine simulation using NI hardware in the loop](../../../assets/img/projects/labview_fig1.png)
 
 This project models a small vending machine and tests the control logic with National Instruments hardware in the loop. The front panel lets a user select a product, insert credit, and see change returned. Behind the panel we implemented a queued state machine that cycles through Idle, Credit, Vend, Change, and Fault. The logic debounces user input, enforces timeouts, and guards against issues like double presses or stuck sensors. When an NI myDAQ is attached we can trigger vend events from real inputs and watch the state transitions in real time.
 
@@ -49,7 +49,7 @@ What made this useful was the test harness. We recorded input sequences that cov
 
 ## FPGA LED Bounce Game in Verilog (DE2 115)
 
-![DE2 115 FPGA board with LED bounce reflex game](../../../assets/img/projects/verilog_fig1.jpg)
+![DE2 115 FPGA board with LED bounce reflex game](../../../assets/img/projects/verilog_fig1.png)
 
 The LED bounce game is a reflex challenge that runs entirely in hardware on a Cyclone IV based DE2 115 board. A single LED scans across a row at a human friendly rate produced by a clock divider. When the lit LED reaches either end, the player must press a button inside a small window to bounce it back. A miss ends the run and the seven segment display shows the final score. We implemented the logic as a small finite state machine with MoveLeft, MoveRight, Bounce, and Fail states. Button input is synchronized and debounced so it behaves well at the system clock rate.
 
