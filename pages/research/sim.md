@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hybrid SFQ/CMOS Simulation -- Research Overview
+title: Hybrid SFQ/CMOS Simulation
 subtitle: End-to-end architectural modeling for superconducting systems
 # Optional tags for your site generator
 # tags: [RSFQ, superconducting, cryogenic, RISC-V, memory, interconnects]
