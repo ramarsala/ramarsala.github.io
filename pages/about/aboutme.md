@@ -14,7 +14,11 @@ I've also taken many electrical courses and learned about a variety of topics fr
 
 ### Research
 
-My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on modeling different cache parameters under cryogenic conditionsto determine instruction latency caused by memory, and is attempting to discover novel insights into potential memory configurations to maximize throughput. More information can be found in the research tab.
+My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on modeling different cache parameters under cryogenic conditionsto determine instruction latency caused by memory, and is attempting to discover novel insights into potential memory configurations to maximize throughput. More information can be found in the architecture simulation tab under research.
+
+### Internship
+
+I have completed an internship at the Lawrence Berkeley National Lab under the supervision of George Michelogiannakis. At the end I have a research paper based on my superconducting ADC noise analysis prepared, which explores the effects of a microarchitecture which can experience unique noise effects not present in standard CMOS systems. More information can be found in the SFQ ADC analysis tab under research.
 
 ### Courses
 
@@ -25,10 +29,9 @@ Most of my coursework has been focused on areas that bridge the hardware and sof
 - SEED Lab (robotics)
 - Web Programming
 - Mobile Programming
+
 Most of these courses are shown in the relavent pages supporting my experience in the various subjects listed in the projects tab.
 
-Other courses include Electromagnetics, Signal processing, Feedback Control, and Devices and Circuits. In these courses I've learned various methods of abstracting and modeling signals, current and other electrical phenomenon into mathematical models to predict and control behaviors in various ways.
+Other courses include Distributed Systems, Machine Learning, Electromagnetics, Signal processing, Feedback Control, and Devices and Circuits. In these courses I've learned various methods of abstracting and modeling signals, current and other electrical phenomenon into mathematical models to predict and control behaviors in various ways.
 
-I am currently taking distributed systems and machine learning, and hope to be able to add those to my list in the future.
-
-More information about what I've learned can be found in their respective tabs under projects.
+More information about what I've learned can be found under projects.
