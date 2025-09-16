@@ -16,4 +16,4 @@ Additionally, I had completed my internship at the Lawrence Berkeley National La
 
 In a few weeks I will be available for hire, and I hope to meet with companies at my college's career fair for oppurtunities to continue similar work based on my past experiences.
 
-![An image taken from the office I worked at temporarily. It was an amazing view!](../../../assets/img/LBNL_Office.jpg)
+![An image taken from the office I worked at temporarily. It was an amazing view!](../../assets/img/LBNL_Office.jpg)
