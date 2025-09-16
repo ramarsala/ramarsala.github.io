@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Noise Analysis of Superconducting ADCs - Research Overview
+title: Noise Analysis of Superconducting ADCs
 subtitle: Robustness of an oversampling, phase-modulation-demodulation S-ADC at cryogenic temperatures
 tags: [superconducting, RSFQ, ADC, cryogenic, noise, robustness]
 ---
