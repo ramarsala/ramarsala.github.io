@@ -14,13 +14,13 @@ I've also taken many electrical courses and learned about a variety of topics fr
 
 ### Research
 
-My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on modeling different cache parameters under cryogenic conditionsto determine instruction latency caused by memory, and is attempting to discover novel insights into potential memory configurations to maximize throughput.
+My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on modeling different cache parameters under cryogenic conditionsto determine instruction latency caused by memory, and is attempting to discover novel insights into potential memory configurations to maximize throughput. My research was accepted and presented for a poster at Open Source Cluster Application Resources (OSCAR) 2025. It is currently in preparation for full paper publication to IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2026.
 
 More information can be found in the architecture simulation tab under research.
 
 ### Internship
 
-I have completed an internship at the Lawrence Berkeley National Lab under the supervision of George Michelogiannakis. At the end I have a research paper based on my superconducting ADC noise analysis prepared, which explores the effects of a microarchitecture which can experience unique noise effects not present in standard CMOS systems.
+I have completed an internship at the Lawrence Berkeley National Lab under the supervision of George Michelogiannakis. At the end I have a research paper based on my superconducting ADC noise analysis prepared, which explores the effects of a microarchitecture which can experience unique noise effects not present in standard CMOS systems. The research is being prepared for submission to IEEE International Symposium on Circuits and Systems (ISCAS) 2026.
 
 More information can be found in the SFQ ADC analysis tab under research.
 
