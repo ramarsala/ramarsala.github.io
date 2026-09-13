@@ -40,16 +40,16 @@ To solve this, we built **Hibiscus**, a comprehensive, trace-driven simulation f
 
 ### Key Insights Presented at ISPASS
 
-During my presentation at ISPASS, I shared several critical architectural insights surfaced by Hibiscus:
+Although I wasn't able to attend the conference in person, my advisor Dr. Mehmet Belviranli presented the work on our behalf, and I worked closely with him to prepare and develop the presentation slide deck. Key architectural insights highlighted during the presentation include:
 
 1. **The Power of an Ultra-Small 4 K L0 Cache:** Even a tiny L0 SFQ cache (a few hundred bytes to a few kilobytes) located at 4 K yields substantial speedups—between **1.5x and 4.5x instructions per second (IPS)** depending on workload locality—insulating the fast core from cryostat cable latency.
 2. **Interconnect Latency Quickly Dominates:** In systems without a 4 K cache, cable propagation delay across the 4 K-to-77 K interface degrades performance significantly, sometimes cutting overall throughput to half of an idealized zero-delay baseline.
 3. **Converter Stack Selection Dictates Read/Write Asymmetry:** SQUID converter stacks provide higher data rates but exhibit pronounced latency asymmetry between memory reads and writes, meaning that workload read/write ratios must guide converter hardware choices.
 
-### The Conference Experience
+### Acknowledgements
 
-Presenting our work at ISPASS was an unforgettable experience. I had the privilege of discussing cryogenic computer architecture and simulation methodologies with researchers, professors, and industry engineers working on cutting-edge systems performance. The Q&A session prompted great discussions around thermal constraints, scaling to multicore topologies, and optical interconnects. It was also wonderful attending presentations on modern GPU profiling, hardware accelerators, and performance modeling tools.
+While I wasn't able to travel to the conference in person, I was thrilled to help develop the presentation slides and work closely with Dr. Belviranli to ensure our simulation methodology and findings were clearly communicated to the computer systems performance community.
 
-I want to extend my sincere gratitude to my advisor, Dr. Mehmet Belviranli, our collaborators at Rochester and UVA, and everyone who supported this research along the way.
+I want to extend my sincere gratitude to my advisor, Dr. Mehmet Belviranli, for delivering the presentation, to our collaborators at the University of Rochester and the University of Virginia, and to everyone who supported this research along the way.
 
 For a deeper dive into the simulation framework, methodology, and architectural results, check out the [Architecture Simulation Research Page]({{ '/pages/research/sim' | relative_url }}) here on my website!
