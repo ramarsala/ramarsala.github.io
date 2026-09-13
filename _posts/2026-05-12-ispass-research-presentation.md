@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Research Paper Accepted and Presented at IEEE ISPASS 2026!
-subtitle: Presenting "Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems"
+title: "Research Paper Accepted and Presented at IEEE ISPASS 2026!"
+subtitle: 'Presenting "Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems"'
 gh-repo: ramarsala/ramarsala.github.io
 gh-badge: [star, fork, follow]
 tags: [research, publications, ISPASS, superconductors, computer-architecture, conference]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Volunteering at the Local Arcade
-subtitle: Hands-on cabinet maintenance, tournament organizing, and community building
+title: "Volunteering at the Local Arcade"
+subtitle: "Hands-on cabinet maintenance, tournament organizing, and community building"
 gh-repo: ramarsala/ramarsala.github.io
 gh-badge: [star, fork, follow]
 tags: [arcade, volunteering, rhythm-games, hardware, community]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Research, Internship, and Degree Completion
-subtitle: Multiple accomplishments involving research
+title: "Research, Internship, and Degree Completion"
+subtitle: "Multiple accomplishments involving research"
 gh-repo: ramarsala/ramarsala.github.io
 gh-badge: [star, fork, follow]
 tags: [research, superconductors, publications, degree, thesis, internship]

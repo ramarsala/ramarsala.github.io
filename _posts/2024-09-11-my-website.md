@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to my personal website
-subtitle: Documenting my experiences
+title: "Welcome to my personal website"
+subtitle: "Documenting my experiences"
 gh-repo: ramarsala/ramarsala.github.io
 gh-badge: [star, fork, follow]
 tags: [website, personal, about]
