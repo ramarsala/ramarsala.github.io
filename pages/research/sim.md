@@ -7,6 +7,8 @@ subtitle: End-to-end architectural modeling for superconducting systems
 ---
 
 > TL;DR -- I built an end-to-end, **trace-driven** simulation framework for **hybrid RSFQ/CMOS systems** that models the processor, cryogenic memories, and interconnects across **4 K, 77 K, and 300 K**. It lets me answer questions like: *Where should caches live inside the cryostat? When do cable lengths dominate? How much does an L0 SFQ cache help?* Along the way I surfaced several design insights for future superconducting architectures.
+>
+> **Publication:** R. A. Marsala et al., *"Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems."* Paper presented at **IEEE ISPASS 2026**; Poster presented at **OSCAR 2025**.
 
 ![Figure 2 -- Simulator components overview](../../../assets/img/research/sim_fig2.png)
 *Figure 2 from the paper. A high-level view of the simulator blocks and data flow.*

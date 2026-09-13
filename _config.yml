@@ -25,8 +25,9 @@ navbar-links:
     - Architecture Simulation: "/pages/research/sim"
     - SFQ ADC Analysis: "/pages/research/noise"
   Projects:
- #   - GPU Programming: "/pages/projects/gpu"
     - Embedded Systems: "/pages/projects/embedded"
+    - GPU & CUDA: "/pages/projects/gpu"
+    - Web & Android: "/pages/projects/web-android"
  #   - Networking: "/pages/projects/network"
  #   - Machine Learning: "/pages/projects/ml"
   Resume: "/pages/resume/resume"

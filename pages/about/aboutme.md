@@ -14,17 +14,17 @@ I've also taken many electrical courses and learned about a variety of topics fr
 
 ### Research
 
-My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on modeling different cache parameters under cryogenic conditionsto determine instruction latency caused by memory, and is attempting to discover novel insights into potential memory configurations to maximize throughput. My research was accepted and presented for a poster at Open Source Cluster Application Resources (OSCAR) 2025. It is currently in preparation for full paper publication to IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2026.
+My research has been primarily focused on developing instruction simulation for novel superconducting architectures. The program focuses on modeling different cache parameters under cryogenic conditions to determine instruction latency caused by memory, and discovers novel insights into potential memory configurations to maximize throughput. Following a poster presentation at Open Source Cluster Application Resources (OSCAR) 2025, our full research paper (*"Hibiscus: End-to-end Architectural Simulation Framework for Hybrid SFQ/CMOS-Memory Compute Systems"*) was accepted and presented at the IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS 2026).
 
-More information can be found in the architecture simulation tab under research.
+More information can be found in the [architecture simulation](/pages/research/sim) tab under research.
 
 ### Internship
 
 I have completed an internship at the Lawrence Berkeley National Lab under the supervision of George Michelogiannakis. At the end I have a research paper based on my superconducting ADC noise analysis prepared, which explores the effects of a microarchitecture which can experience unique noise effects not present in standard CMOS systems. The research is being prepared for submission to IEEE International Symposium on Circuits and Systems (ISCAS) 2026.
 
-More information can be found in the SFQ ADC analysis tab under research.
+More information can be found in the [SFQ ADC analysis](/pages/research/noise) tab under research.
 
-### Courses
+### Courses & Projects
 
 Most of my coursework has been focused on areas that bridge the hardware and software of systems, primarily for baremetal electronics. I have also taken higher level programming courses, such as Android and Web Programming, which focused on higher level design and interfacing with existing libraries and software. Notable courses include:
 - Parallel Programming
@@ -34,11 +34,12 @@ Most of my coursework has been focused on areas that bridge the hardware and sof
 - Web Programming
 - Mobile Programming
 
-Most of these courses are shown in the relavent pages supporting my experience in the various subjects listed in the projects tab.
+My practical work across these subjects is showcased in the dedicated project pages:
+- [Embedded Systems](/pages/projects/embedded) — Baremetal robotics, fiducial navigation, hardware BPM detector, and FPGA Verilog design
+- [GPU & CUDA Programming](/pages/projects/gpu) — CUDA tiled matrix algorithms, OpenMP multi-core scaling, OpenGL 3D graphics, and particle simulation
+- [Web & Android Programming](/pages/projects/web-android) — Personal statistics tracking platform (Vite/TypeScript/Docker), native Android Jetpack development, and LAMP full-stack web applications
 
 Other courses include Distributed Systems, Machine Learning, Electromagnetics, Signal processing, Feedback Control, and Devices and Circuits. In these courses I've learned various methods of abstracting and modeling signals, current and other electrical phenomenon into mathematical models to predict and control behaviors in various ways.
-
-More information about what I've learned can be found under projects.
 
 ### Interests
 
