@@ -18,11 +18,10 @@ My research has been primarily focused on developing instruction simulation for 
 
 More information can be found in the [architecture simulation](/pages/research/sim) tab under research.
 
-### Internship
+### Internships
 
-I have completed an internship at the Lawrence Berkeley National Lab under the supervision of George Michelogiannakis. At the end I have a research paper based on my superconducting ADC noise analysis prepared, which explores the effects of a microarchitecture which can experience unique noise effects not present in standard CMOS systems. The research is being prepared for submission to IEEE International Symposium on Circuits and Systems (ISCAS) 2026.
-
-More information can be found in the [SFQ ADC analysis](/pages/research/noise) tab under research.
+- **Lawrence Berkeley National Lab (LBNL):** I completed a research internship under the supervision of George Michelogiannakis focusing on superconducting ADC noise analysis. The project explored intrinsic noise effects in novel microarchitectures and resulted in a research paper prepared for submission to IEEE International Symposium on Circuits and Systems (ISCAS) 2026. More information can be found in the [SFQ ADC analysis](/pages/research/noise) tab under research.
+- **Canary X Sensor (Lunar Outpost):** I worked on a field session project commissioned and managed directly by Lunar Outpost engineers to develop an autonomous microcontroller sensing platform. The system periodically aggregates and encrypts environmental and GPS telemetry for transmission across a prioritized Ethernet, Wi-Fi, and cellular network ladder with robust fault tolerance and 99.9% uptime. Our team was awarded 1st Place in the final technical presentation. More information can be found in the dedicated [Canary X Sensor](/pages/projects/canaryx) project page.
 
 ### Courses & Projects
 
@@ -35,6 +34,7 @@ Most of my coursework has been focused on areas that bridge the hardware and sof
 - Mobile Programming
 
 My practical work across these subjects is showcased in the dedicated project pages:
+- [Canary X Sensor](/pages/projects/canaryx) — Autonomous low-power sensing platform with multi-network priority transmission and 99.9% uptime (Lunar Outpost)
 - [Embedded Systems](/pages/projects/embedded) — Baremetal robotics, fiducial navigation, hardware BPM detector, and FPGA Verilog design
 - [GPU & CUDA Programming](/pages/projects/gpu) — CUDA tiled matrix algorithms, OpenMP multi-core scaling, OpenGL 3D graphics, and particle simulation
 - [Web & Android Programming](/pages/projects/web-android) — Personal statistics tracking platform (Vite/TypeScript/Docker), native Android Jetpack development, and LAMP full-stack web applications

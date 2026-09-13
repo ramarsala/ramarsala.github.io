@@ -7,16 +7,6 @@ This page collects various embedded projects that I built, primarily in team env
 
 ---
 
-## Canary X Field Session Project
-
-![Canary X embedded system mockup](../../../assets/img/projects/canary_fig1.png)
-
-Canary X is a low power sensing platform that aggregates GPS and environmental data and forwards it to an on site server. Our team designed the end to end flow: an Adafruit Feather acts as the coordinator and talks to sensors over UART, SPI, and I2C; we added a compact serialization layer so readings become small JSON messages that are easy to store and replay. Communication is organized as a priority ladder: try ethernet first, then wifi, then a cellular link if both local paths fail. A shared state machine keeps links healthy, retries with backoff, and logs which path was used so we can measure link quality in the field.
-
-Security mattered because the device might sit unattended. We wrapped the transports with light weight crypto libraries that fit the MCU footprint and validated message integrity on the server. The result was a drop in node that could be powered up, find at least one path to the server, and report location and environmental data without operator attention. The project was presented as part of the field session and our team placed first in the technical presentation vote.
-
----
-
 ## Autonomous Robot - Fiducial Navigation and Closed loop Drive
 
 ![Autonomous robot navigating between fiducial markers](../../../assets/img/projects/seed_fig1.png)

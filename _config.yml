@@ -25,6 +25,7 @@ navbar-links:
     - Architecture Simulation: "/pages/research/sim"
     - SFQ ADC Analysis: "/pages/research/noise"
   Projects:
+    - Canary X Sensor: "/pages/projects/canaryx"
     - Embedded Systems: "/pages/projects/embedded"
     - GPU & CUDA: "/pages/projects/gpu"
     - Web & Android: "/pages/projects/web-android"
@@ -269,6 +270,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+future: true
 
 kramdown:
   input: GFM
